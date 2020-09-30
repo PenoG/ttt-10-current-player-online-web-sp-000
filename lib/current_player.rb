@@ -1,7 +1,7 @@
 def turn_count(board)
   count = 0
   if board.each 
-    counter+=1
+    count+= 1
   end
 end
 
