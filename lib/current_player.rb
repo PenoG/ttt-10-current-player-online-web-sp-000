@@ -1,6 +1,6 @@
 def turn_count(board)
   count = 0
-  if move
+  if board.each 
     counter += 1
   end
 end
